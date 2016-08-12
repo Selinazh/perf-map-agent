@@ -1,0 +1,10 @@
+unzip and copy to /tmp
+
+install gdp and perf:
+
+yum -y install gdb perf
+
+run as :
+perf-java PID
+
+
